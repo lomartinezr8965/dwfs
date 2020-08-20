@@ -1,0 +1,77 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+.img-circular {
+    border-radius: 50%;
+}
+
+@media (max-width: 500px;){
+
+}
+.section-header {
+    position: sticky;
+    width: 100%;
+    background-color: #17063f;
+    display: inline-flex;
+}
+
+
+.text-white {
+    color: white;
+}
+
+.div-left {
+    padding-left: 50px;
+    display: inline-block;
+}
+
+.div-foto {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 20%;
+    border: 1px solid #17063f;
+    text-align: center;
+}
+
+.div-titulo {
+    padding-top: 30px;
+    width: 80%;
+    border: 1px solid #17063f;
+    text-align: left;
+}
+
+.section-body {
+    width: 100%;
+    border: 2px solid #17063f;
+    display: inline-flex;
+}
+
+.div2-lef {
+    width: 65%;
+    border: 2px solid #17063f;
+}
+
+.div2-right {
+    width: 35%;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.div-mitad {
+    width: 50%;
+}
+
+.div-center {
+    text-align: center;
+}
+
+.div-inline-flex {
+    display: inline-flex;
+}
